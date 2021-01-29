@@ -1,5 +1,3 @@
 items:
-  - text: about
-    url: "#"
   - text: index
-    url: /blog
+    url: /index
