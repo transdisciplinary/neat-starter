@@ -1,1 +1,4 @@
-links: []
+links:
+  - url: https://musing-neumann-59faac.netlify.app/blog
+    title: /
+    desc: news
