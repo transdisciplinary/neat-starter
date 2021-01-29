@@ -2,3 +2,6 @@ links:
   - url: https://musing-neumann-59faac.netlify.app/blog
     title: /
     desc: news
+  - title: site contents
+    url: /blog
+    desc: entries
