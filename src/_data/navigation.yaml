@@ -1,9 +1,5 @@
 items:
   - text: about
-    url: https://musing-neumann-59faac.netlify.app/about
-  - text: Menu Two
     url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
+  - text: index
     url: /blog
