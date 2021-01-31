@@ -264,7 +264,7 @@ and life
 lo
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-u9eyImD3i4?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<a href="https://www.youtube.com/watch?v=-u9eyImD3i4" target="_blank" >The crisis of love<a/>  
+\[The crisis of love](https://www.youtube.com/watch?v=-u9eyImD3i4)  
 
 <<<<<<<3
 
@@ -312,10 +312,7 @@ One of my favorite James Baldwin quotes
 
 <a href="https://www.youtube.com/watch?v=DXwLLyorks8" target="_blank"> On getting fed with exquisite organic cat food as an artist <a/> 
 
-
 English Subtitles and being useful / spoilt / working with state funding from a government that doesn’t want you / artists changing the world - audience / feeling alienated as an artist / the desire to justify your work]
-
-
 
 Why are there two introductions to the Science of Logic? Freud wasn’t yet born. But a frog defecates in a pond, twice, in an era before the written language.
 
@@ -433,9 +430,7 @@ The desire to desire. After I got excited, frustrated, satisfied, happy, and bor
 
 Maybe ingesting something: sugar, salt, smoke, tea, coffee, nicotine, pleasure, rest, etc. Why can’t I do without? And why do I attach to the pleasure of doing without? I met my soulmate at the drive in of a fast food chain restaurant, because we got into an argument about which dressing was the most tasty to dip the stir fried onion rings, or were it octopus rings? Too hard to think beyond a lifetime.
 
-What’s love got to do with it? Could I read 
-<a href="https://ipfs.io/ipfs/bafykbzacecc5sm4djkalivnwyo4lqb4ai2ft7dbkdctpwxoh2fuyq3bgce6ku?filename=Karen%20Barad%20-%20Meeting%20the%20universe%20halfway_%20quantum%20physics%20and%20the%20entanglement%20of%20matter%20and%20meaning%20%20-Duke%20University%20Press%20%282007%29.pdf" target="_blank">Meeting the universe halfway quantum physics and the entanglement of matter and meaning<a/>
-while reading <a href="https://ipfs.io/ipfs/bafykbzacecv3reg7umqjlvl6ozaoahxkauamnk5ab25bstd2bvsg5jqdiu7fk?filename=Slavoj%20%C5%BDi%C5%BEek%20-%20The%20Ticklish%20Subject_%20The%20Absent%20Centre%20of%20Political%20Ontology-Verso%20%282000%29.pdf" target="_blank">The ticklish subject - the absent core of political ontology<a/> and rethink the theses of these works within the work of Byron Katie? My mind jumps into culture vulture’s lyrics ‘adhd, the disease of the century that’s me’. My concern is that academic rigour is lost among the lifestyle of smartphone updates, that the time it takes to bring a thorough work into existence, doesn’t fit the scattered and fleeting subject matters of seasonal academic fashions. Never mind reading Merleau Ponty during the first confinement wave or bother with Agamben’s emergency state’s law enforcement. How to belong to Harari’s useless class and work on practices that present themselves useless to the surveillance state, yet can proliferate within it and render the importance of hegemony to the relative dustbins of history?
+What’s love got to do with it? Could I read \[Meeting the universe halfway quantum physics and the entanglement of matter and meaning](https://ipfs.io/ipfs/bafykbzacecc5sm4djkalivnwyo4lqb4ai2ft7dbkdctpwxoh2fuyq3bgce6ku?filename=Karen%20Barad%20-%20Meeting%20the%20universe%20halfway*%20quantum%20physics%20and%20the%20entanglement%20of%20matter%20and%20meaning%20%20-Duke%20University%20Press%20%282007%29.pdf) while reading \[The ticklish subject - the absent core of political ontology](https://ipfs.io/ipfs/bafykbzacecv3reg7umqjlvl6ozaoahxkauamnk5ab25bstd2bvsg5jqdiu7fk?filename=Slavoj%20%C5%BDi%C5%BEek%20-%20The%20Ticklish%20Subject*%20The%20Absent%20Centre%20of%20Political%20Ontology-Verso%20%282000%29.pdf) and rethink the theses of these works within the work of Byron Katie? My mind jumps into culture vulture’s lyrics ‘adhd, the disease of the century that’s me’. My concern is that academic rigour is lost among the lifestyle of smartphone updates, that the time it takes to bring a thorough work into existence, doesn’t fit the scattered and fleeting subject matters of seasonal academic fashions. Never mind reading Merleau Ponty during the first confinement wave or bother with Agamben’s emergency state’s law enforcement. How to belong to Harari’s useless class and work on practices that present themselves useless to the surveillance state, yet can proliferate within it and render the importance of hegemony to the relative dustbins of history?
 
 ![](/static/img/elevators-2.jpg)
 
