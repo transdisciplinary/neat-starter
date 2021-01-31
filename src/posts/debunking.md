@@ -113,11 +113,10 @@ MAR
 
 Nutritive.
 
-‘Hey You,’ <https://vimeo.com/7315956>  <a href="https://vimeo.com/7315956" target="_blank">Whatshadoing</a>
-https://vimeo.com/7315956 - the non-dual\
-gig attempt about - ‘Whatshadoing’ starts at 02:32. \
-\
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/7315956?title=0&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+‘Hey You,’<a href="https://vimeo.com/7315956" target="_blank">Whatshadoing</a>
+
+* the non-dual\ gig attempt about - ‘Whatshadoing’ starts at 02:32. \
+  \
 
 once within the non-dual frame , when there is not a specific correctness to be found or even rubric to formulate off of, how to be able to know, what you are doing(what the aim is, when the technology at use is radical acceptance?)
 
@@ -126,18 +125,19 @@ COOPERATIVE
 I’m thinking about changing the way the workplace that has been established as a curated project, into a cooperative. My research about commons has brought me to a splace where I’d like to start an experiment with this workspace/gallery. I’m interested in sharing with persons that want to share the responsibilities, risks and benefits. At this moment I’m thinking about a modus operandi that can be summed up in:\
 \
 
-1. a person that needs to rent a space, can do so through my Smartbe.be activity. In that sense I can invoice the organisation/person and with that budget create artistic employment for myself and participants when doing artistic work. This means in practice that most persons that I know, are not able to provide for such a space, because to arrive at a minimum 35,23 euro netto salary that only covers the costs and rent of the space, an invoice of 84,18\* euro inclusive 21% tax and 6,5% administration costs has to be made per day for using such a space. (\*[source](https://docs.google.com/presentation/d/1pnObtI5n9FnKrIer7jNJn2qWnd1QMKYp5Na4TH2VI-s/edit?usp=sharing))\
+1. a person that needs to rent a space, can do so through my Smartbe.be activity. In that sense I can invoice the organisation/person and with that budget create artistic employment for myself and participants when doing artistic work. This means in practice that most persons that I know, are not able to provide for such a space, because to arrive at a minimum 35,23 euro netto salary that only covers the costs and rent of the space, an invoice of 84,18* euro inclusive 21% tax and 6,5% administration costs has to be made per day for using such a space.  <a href="https://docs.google.com/presentation/d/1pnObtI5n9FnKrIer7jNJn2qWnd1QMKYp5Na4TH2VI-s/edit?usp=sharing" target="_blank">(source)</a>
+
    \
-2. connecting with a decentralised autonomous organisation. Organising the space through ethereum based Smart contracts and interacting with the [Motion token](https://app.tryroll.com/token/MOTION) developed by Marlon Barrios Solano from [dance-tech.net](http://www.dance-tech.net/). This would in practice mean that the gallery space develops a contract that can be exchanged. A clear convention regarding liabilities and regulations regarding the rental contract and utility bills, and all other terms and conditions related to access, use and care of the space and its communal areas, need to be included in the protocol of providing a non-curated, non-commercial, non-institutional, common workspace for artistic research and presentation on a distributed ledger through a ethereum based smart contract.
-3. When possible, starting a public foundation, which functions as the intergenerational safeguard of its common property and is defined constitutionally to interact with society for the benefit of artists and artistic work. The identity of the artist can be thought of as the [M+ concept of subjectivity](https://www.youtube.com/watch?v=_lyGeROBG0Q) (Zizek et al.).
+2. connecting with a decentralised autonomous organisation. Organising the space through ethereum based Smart contracts and interacting with the <a href="https://app.tryroll.com/token/MOTION" target="_blank"> Motion token </a> developed by Marlon Barrios Solano from <a href="http://www.dance-tech.net/" target="_blank">dance-tech.net</a>. This would in practice mean that the gallery space develops a contract that can be exchanged. A clear convention regarding liabilities and regulations regarding the rental contract and utility bills, and all other terms and conditions related to access, use and care of the space and its communal areas, need to be included in the protocol of providing a non-curated, non-commercial, non-institutional, common workspace for artistic research and presentation on a distributed ledger through a ethereum based smart contract.
+3. When possible, starting a public foundation, which functions as the intergenerational safeguard of its common property and is defined constitutionally to interact with society for the benefit of artists and artistic work. The identity of the artist can be thought of as the <a href="https://www.youtube.com/watch?v=_lyGeROBG0Q" target="_blank">M+ concept of subjectivity<a/> (Zizek et al.).
 
 Thinking about these possibilities of allowing spaces to exist in between the institutional and the market oriented, has often brought me to a dependency on both welfare/funding and selling of time/labour. My main concern is related to other forms of exploitation/exchange of value, which benefit both from market and state interaction, to gather resources for artists to have abundant time and necessary means to develop research and practice which does not have to be profit driven, neither contribute to propagate society at large. At the same time to refrain from withdrawing from the world into niche communities, precarity, cults and religious interpretations of contemporary cultures - rather belonging to the world into a different paradigm, a practice of im/possibility with a commitment that extends beyond academic reflection, a side gig besides real work, an addon to a curriculum vitae that scores well, etc. Instead engaging in an artistic practice wherein the ecology-economy and the personal liability is at stake, where things do matter for real and money needs to be available in exchange for time and resources on the short and the long run, changing the position from where artistic practice reflects on society. Not how to, but why put your money where your mouth is?
 
-project site: <https://www.transdisciplinary.art>
+project site: <a href="https://www.transdisciplinary.art" target="_blank">transdisciplinary.art<a/>
 
 concept in development (working) title cooperative space:
 
-![](https://lh5.googleusercontent.com/afHfkXMdZStCbF9hnITTkJjtZqauugYHkHylBUiwMGWeHHEVC9gT9Mv9KTh3RHm8BGQ9gErY_h0xIKyexPD4BF0qD26FNfgQaWPaGQDs3ftmhW84SbSmFpxt8d6bKGvgXgMDU9-Y)
+![](/static/img/screen-shot-2020-11-20-at-15.17.57.png)
 
 Where is the opening for love inside this work? How does this work make openings for love?
 
@@ -199,7 +199,7 @@ and life
 
 lo
 
-The crisis of love: <https://www.youtube.com/watch?v=-u9eyImD3i4>
+<a href="https://www.youtube.com/watch?v=-u9eyImD3i4> target="_blank">The crisis of love<a/>: 
 
 <<<<<<<3
 
@@ -213,7 +213,7 @@ I remember when people did hearts with numbers :)<3 every part of their keyboard
 
 }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
 
-![](https://lh4.googleusercontent.com/qxROEg10JH2clv_SkwovG3MBJPZI-_pg1jtNH2wKwQLI0Je_jJM2PNJNZ-_udlMhzG_6JZtmRoPIOUMUL4dAuMwxZu8VPisbUlxqXNjZo_xS2iQXfPHDtFoNLtkZhaRTXNTZO1y7)
+![](/static/img/thisistheway.jpg)
 
 HOW TO DIE IN A GOOD WAY?(HOW TO LIVE IN A GOOD WAY)
 
@@ -225,7 +225,7 @@ To me there exists something juicy here, that is how to die in a good way? I’m
 
 \-given that the planet is going through the 6th extinction perhaps research is needed on what it is to die, what it is like to die, and how to do so in a good way? There are many people who’ve done this research before of course, during the aids crisis, during the many apocalypse that different sects of humans have undergone. Perhaps this tactic or technology of non-dualism can be a mode of this research. But once within the non-dual frame , when there is not a specific correct answer to be found or even rubric to formulate off of, how to be able to know, what you are doing(what the aim is when the technology at use is radical acceptance?) … 
 
-(<https://forthewild.world/listen/homebound-closing-time-with-stephen-jenkinson-199>) 
+<a href="https://forthewild.world/listen/homebound-closing-time-with-stephen-jenkinson-199" target="_blank">Listen to homebound closing time with Stephen Jenkinson<a/>
 
 \-once dead, there is an embedded “freedom”(connectedness) , the choice to do, to choose, what moves (you)through you, perhaps. If i'm thinking of an artist as a muse, a vessel, a portal, a potential for a device for divine, whether the divine is foucault or the divine feminine (perhaps they one and the same anyhow), then within death is perhaps located the ability to fully commit, to be fully present. I also feel here a connection to the latour text, as he spoke about types of critique- people projecting fake meaning into what they are doing, people being simply vessels to be moved by a larger force unbeknownst to them. In death there could exist a third option, although i'm unsure of how it could be called. A dance between it all stories being fake and then allowing the fakeness to guide real material actions that we both could predict the consequences of and also not. 
 
@@ -235,15 +235,15 @@ One of my favorite james baldwin quotes
 
 “..because only an artist can tell, and only artists have told since we have heard of man, what it is like for anyone who gets to this planet to survive it. What it is like to die, or to have somebody die; what it is like to be glad. Hymns don’t do this, churches really cannot do it. The trouble is that although the artist can do it, the price that he has to pay himself and that you, the audience, must also pay, is a willingness to give up everything, to realize that although you spent twenty-seven years acquiring this house, this furniture, this position, although you spent forty years raising this child, these children, nothing, none of it belongs to you. You can only have it by letting it go. You can only take if you are prepared to give, and giving is not an investment. It is not a day at the bargain counter. It is a total risk of everything, of you and who you think you are, who you think you’d like to be, where you think you’d like to go — everything, and this forever, forever.”
 
-<https://www.youtube.com/watch?v=w-IyamaAbxM> (short version)
+<a href="https://www.youtube.com/watch?v=w-IyamaAbxM" target="_blank"> (short version)<a/>
 
 “..because only a scientist can tell, and only scientists have told since we have heard of man, what it is like for anyone who gets to this planet to survive it. What it is like to die, or to have somebody die; what it is like to be glad. Hymns don’t do this, churches really cannot do it. The trouble is that although the scientist can do it, the price that he has to pay himself and that you, the audience, must also pay, is a willingness to give up everything, to realize that although you spent twenty-seven years acquiring this house, this furniture, this position, although you spent forty years raising this child, these children, nothing, none of it belongs to you. You can only have it by letting it go. You can only take if you are prepared to give, and giving is not an investment. It is not a day at the bargain counter. It is a total risk of everything, of you and who you think you are, who you think you’d like to be, where you think you’d like to go — everything, and this forever, forever.”
 
-<https://www.youtube.com/watch?v=w-IyamaAbxM> (short version)
+<a href="https://www.youtube.com/watch?v=w-IyamaAbxM" target="_blank"> (short version)<a/>
 
 \------------------------------------------------------------------------------------------------------
 
-[[On getting fed with exquisite organic cat-food as an artist - English Subtitles](https://www.youtube.com/watch?v=DXwLLyorks8) and being useful / spoilt / working with state funding from a government that doesn’t want you / artists changing the world - audience / feeling alienated as an artist / the desire to justify your work]
+\ <a href="https://www.youtube.com/watch?v=DXwLLyorks8" target="_blank">On getting fed with exquisite organic cat-food as an artist<a/> - English Subtitles and being useful / spoilt / working with state funding from a government that doesn’t want you / artists changing the world - audience / feeling alienated as an artist / the desire to justify your work]
 
 \------------------------------------------------------------------------------------------------------
 
@@ -314,7 +314,8 @@ Not enough is enough. 
 
 Fuego! ….no lo dejes apagar.
 
-<https://www.youtube.com/watch?v=MZXlgNMDK3E>
+<>
+<a href="https://www.youtube.com/watch?v=MZXlgNMDK3E" target="_blank">(source video)</a>
 
 V ersus: from a medieval Latin use of Latin versus ‘towards’\
 I ntimate: from late Latin intimatus, past participle of Latin intimare ‘impress, make familiar’\
@@ -358,8 +359,8 @@ The desire to desire. After I got excited, frustrated, satisfied, happy, and bor
 
 Maybe ingesting something: sugar, salt, smoke, tea, coffee, nicotine, pleasure, rest, etc. Why can’t I do without? And why do I attach to the pleasure of doing without? I met my soulmate at the drive in of a fast food chain restaurant, because we got into an argument about which dressing was the most tasty to dip the stir fried onion rings, or were it octopus rings? Too hard to think beyond a lifetime.
 
-What’s love got to do with it? Could I read ‘Meeting the universe halfway quantum physics and the entanglement of matter and meaning’ ([source](https://ipfs.io/ipfs/bafykbzacecc5sm4djkalivnwyo4lqb4ai2ft7dbkdctpwxoh2fuyq3bgce6ku?filename=Karen%20Barad%20-%20Meeting%20the%20universe%20halfway_%20quantum%20physics%20and%20the%20entanglement%20of%20matter%20and%20meaning%20%20-Duke%20University%20Press%20%282007%29.pdf)) while reading ‘The ticklish subject - the absent core of political ontology’ ([source](https://ipfs.io/ipfs/bafykbzacecv3reg7umqjlvl6ozaoahxkauamnk5ab25bstd2bvsg5jqdiu7fk?filename=Slavoj%20%C5%BDi%C5%BEek%20-%20The%20Ticklish%20Subject_%20The%20Absent%20Centre%20of%20Political%20Ontology-Verso%20%282000%29.pdf)) and rethink the theses of these works within the work of Byron Katie? My mind jumps into culture vulture’s lyrics ‘adhd, the disease of the century that’s me’. My concern is that academic rigour is lost among the lifestyle of smartphone updates, that the time it takes to bring a thorough work into existence, doesn’t fit the scattered and fleeting subject matters of seasonal academic fashions. Never mind reading Merleau Ponty during the first confinement wave or bother with Agamben’s emergency state’s law enforcement. How to belong to Harari’s useless class and work on practices that present themselves useless to the surveillance state, yet can proliferate within it and render the importance of hegemony to the relative dustbins of history?
+What’s love got to do with it? Could I read <a href="https://ipfs.io/ipfs/bafykbzacecc5sm4djkalivnwyo4lqb4ai2ft7dbkdctpwxoh2fuyq3bgce6ku?filename=Karen%20Barad%20-%20Meeting%20the%20universe%20halfway_%20quantum%20physics%20and%20the%20entanglement%20of%20matter%20and%20meaning%20%20-Duke%20University%20Press%20%282007%29.pdf" target="_blank>‘Meeting the universe halfway quantum physics and the entanglement of matter and meaning’<a/> while reading <a href="https://ipfs.io/ipfs/bafykbzacecv3reg7umqjlvl6ozaoahxkauamnk5ab25bstd2bvsg5jqdiu7fk?filename=Slavoj%20%C5%BDi%C5%BEek%20-%20The%20Ticklish%20Subject_%20The%20Absent%20Centre%20of%20Political%20Ontology-Verso%20%282000%29.pdf" target="_blank>‘The ticklish subject - the absent core of political ontology’<a/> and rethink the theses of these works within the work of Byron Katie? My mind jumps into culture vulture’s lyrics ‘adhd, the disease of the century that’s me’. My concern is that academic rigour is lost among the lifestyle of smartphone updates, that the time it takes to bring a thorough work into existence, doesn’t fit the scattered and fleeting subject matters of seasonal academic fashions. Never mind reading Merleau Ponty during the first confinement wave or bother with Agamben’s emergency state’s law enforcement. How to belong to Harari’s useless class and work on practices that present themselves useless to the surveillance state, yet can proliferate within it and render the importance of hegemony to the relative dustbins of history?
 
-![](https://lh6.googleusercontent.com/0P15_Fa0XaryHfbxt_vaZGR8ZgCwtVE-5IdT1W6X1jVmmtX1X0opc_EKrItcuigAAprqswjQ5BBgPQLk_LZMPmTYHhQ9riROJHOsM45hf2y6NUvh1WU2fAopF9duB8-YRC7KhLfB)
+![](/static/img/elevators-2.jpg)
 
 Does the whispering bother you when you pretend to sleep?
