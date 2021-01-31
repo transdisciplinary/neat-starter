@@ -1,3 +1,6 @@
 items:
   - text: index
     url: /blog
+
+  - text: about
+    url: /about
