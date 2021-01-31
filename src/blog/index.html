@@ -16,7 +16,7 @@ layout: blog
                     {% endif %}
                 </a>
             </h2>
-            <p class="text-base leading-6 text-gray-300 mb-3">
+            <p class="text-base leading-6 text-green-200 mb-3">
                 <time>
                     {{ post.date | readableDate }}
                     by
@@ -25,14 +25,14 @@ layout: blog
                 </time>
             </p>
             {% if post.data.description %}
-                <p class="text-lg text-gray-500 mb-3">
+                <p class="text-lg text-gray-300 mb-3">
                     {{ post.data.description }}
                 </p>
             {% endif %}
 
             <p>
-                <a href="{{ post.url | url }}" class="text-indigo-500 font-light text-lg">
-                    Read more →
+                <a href="{{ post.url | url }}" class="text-indigo-400 font-light text-lg">
+                    read more →
                 </a>
             </p>
 
