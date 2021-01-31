@@ -1,1 +1,4 @@
-links: []
+links:
+  - title: /
+    url: /blog
+    desc: news
