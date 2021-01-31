@@ -23,7 +23,8 @@ WAY…………………………………………………………………�
 
  EVERYTHING IS ALIVE EVEN WHAT WE THINK IS DEATH}}}}}}}}}}}}}}}}}}}}}}}}}}}}}<3
 
-}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}.,kb65w235gy,
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+}}}}}}}}}}}}}}}}}}.,kb65w235gy,
 
 TAHINI
 
@@ -176,7 +177,7 @@ MAR
 Nutritive.
 
 ‘Hey You,’<a href="https://vimeo.com/7315956" target="_blank">Whatshadoing</a>
-
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/7315956?title=0&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 * the non-dual\ gig attempt about - ‘Whatshadoing’ starts at 02:32. \
   \
 
@@ -303,11 +304,14 @@ One of my favorite James Baldwin quotes
 “..because only a scientist can tell, and only scientists have told since we have heard of man, what it is like for anyone who gets to this planet to survive it. What it is like to die, or to have somebody die; what it is like to be glad. Hymns don’t do this, churches really cannot do it. The trouble is that although the scientist can do it, the price that he has to pay himself and that you, the audience, must also pay, is a willingness to give up everything, to realize that although you spent twenty-seven years acquiring this house, this furniture, this position, although you spent forty years raising this child, these children, nothing, none of it belongs to you. You can only have it by letting it go. You can only take if you are prepared to give, and giving is not an investment. It is not a day at the bargain counter. It is a total risk of everything, of you and who you think you are, who you think you’d like to be, where you think you’d like to go — everything, and this forever, forever.”
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w-IyamaAbxM?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <a href="https://www.youtube.com/watch?v=w-IyamaAbxM" target="_blank"> (short version)<a/>
 
 \------------------------------------------------------------------------------------------------------
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DXwLLyorks8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-\ <a href="https://www.youtube.com/watch?v=DXwLLyorks8" target="_blank">On getting fed with exquisite organic cat-food as an artist<a/> - English Subtitles and being useful / spoilt / working with state funding from a government that doesn’t want you / artists changing the world - audience / feeling alienated as an artist / the desire to justify your work]
+\ 
+<a href="https://www.youtube.com/watch?v=DXwLLyorks8" target="_blank"> On getting fed with exquisite organic cat-food as an artist<a/> 
+English Subtitles and being useful / spoilt / working with state funding from a government that doesn’t want you / artists changing the world - audience / feeling alienated as an artist / the desire to justify your work]
 
 \------------------------------------------------------------------------------------------------------
 
@@ -435,7 +439,9 @@ The desire to desire. After I got excited, frustrated, satisfied, happy, and bor
 
 Maybe ingesting something: sugar, salt, smoke, tea, coffee, nicotine, pleasure, rest, etc. Why can’t I do without? And why do I attach to the pleasure of doing without? I met my soulmate at the drive in of a fast food chain restaurant, because we got into an argument about which dressing was the most tasty to dip the stir fried onion rings, or were it octopus rings? Too hard to think beyond a lifetime.
 
-What’s love got to do with it? Could I read <a href="https://ipfs.io/ipfs/bafykbzacecc5sm4djkalivnwyo4lqb4ai2ft7dbkdctpwxoh2fuyq3bgce6ku?filename=Karen%20Barad%20-%20Meeting%20the%20universe%20halfway_%20quantum%20physics%20and%20the%20entanglement%20of%20matter%20and%20meaning%20%20-Duke%20University%20Press%20%282007%29.pdf" target="_blank">'Meeting the universe halfway quantum physics and the entanglement of matter and meaning’<a/> while reading <a href="https://ipfs.io/ipfs/bafykbzacecv3reg7umqjlvl6ozaoahxkauamnk5ab25bstd2bvsg5jqdiu7fk?filename=Slavoj%20%C5%BDi%C5%BEek%20-%20The%20Ticklish%20Subject_%20The%20Absent%20Centre%20of%20Political%20Ontology-Verso%20%282000%29.pdf" target="_blank">‘The ticklish subject - the absent core of political ontology’<a/> and rethink the theses of these works within the work of Byron Katie? My mind jumps into culture vulture’s lyrics ‘adhd, the disease of the century that’s me’. My concern is that academic rigour is lost among the lifestyle of smartphone updates, that the time it takes to bring a thorough work into existence, doesn’t fit the scattered and fleeting subject matters of seasonal academic fashions. Never mind reading Merleau Ponty during the first confinement wave or bother with Agamben’s emergency state’s law enforcement. How to belong to Harari’s useless class and work on practices that present themselves useless to the surveillance state, yet can proliferate within it and render the importance of hegemony to the relative dustbins of history?
+What’s love got to do with it? Could I read 
+<a href="https://ipfs.io/ipfs/bafykbzacecc5sm4djkalivnwyo4lqb4ai2ft7dbkdctpwxoh2fuyq3bgce6ku?filename=Karen%20Barad%20-%20Meeting%20the%20universe%20halfway_%20quantum%20physics%20and%20the%20entanglement%20of%20matter%20and%20meaning%20%20-Duke%20University%20Press%20%282007%29.pdf" target="_blank">Meeting the universe halfway quantum physics and the entanglement of matter and meaning<a/>
+while reading <a href="https://ipfs.io/ipfs/bafykbzacecv3reg7umqjlvl6ozaoahxkauamnk5ab25bstd2bvsg5jqdiu7fk?filename=Slavoj%20%C5%BDi%C5%BEek%20-%20The%20Ticklish%20Subject_%20The%20Absent%20Centre%20of%20Political%20Ontology-Verso%20%282000%29.pdf" target="_blank">The ticklish subject - the absent core of political ontology<a/> and rethink the theses of these works within the work of Byron Katie? My mind jumps into culture vulture’s lyrics ‘adhd, the disease of the century that’s me’. My concern is that academic rigour is lost among the lifestyle of smartphone updates, that the time it takes to bring a thorough work into existence, doesn’t fit the scattered and fleeting subject matters of seasonal academic fashions. Never mind reading Merleau Ponty during the first confinement wave or bother with Agamben’s emergency state’s law enforcement. How to belong to Harari’s useless class and work on practices that present themselves useless to the surveillance state, yet can proliferate within it and render the importance of hegemony to the relative dustbins of history?
 
 ![](/static/img/elevators-2.jpg)
 
