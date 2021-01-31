@@ -177,6 +177,7 @@ MAR
 Nutritive.
 
 ‘Hey You,’<a href="https://vimeo.com/7315956" target="_blank">Whatshadoing</a>
+
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/7315956?title=0&byline=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 * the non-dual\ gig attempt about - ‘Whatshadoing’ starts at 02:32. \
   \
@@ -263,7 +264,7 @@ and life
 lo
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-u9eyImD3i4?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<a href="https://www.youtube.com/watch?v=-u9eyImD3i4" target="_blank" >The crisis of love<a/>:  
+<a href="https://www.youtube.com/watch?v=-u9eyImD3i4" target="_blank" >The crisis of love<a/>  
 
 <<<<<<<3
 
@@ -279,7 +280,7 @@ I remember when people did hearts with numbers :)<3 every part of their keyboard
 
 ![](/static/img/thisistheway.jpg)
 
-### HOW TO DIE IN A GOOD WAY?(HOW TO LIVE IN A GOOD WAY)
+### HOW TO DIE IN A GOOD WAY? (HOW TO LIVE IN A GOOD WAY)
 
 It seems that, if driven to its radical potential, non-duality could have the ability to make one rather fearless? I say that, because inside of non dual is of course non attachment, and a person without attachments is one who has nothing to fear, in a sense they are already dead, fully alive, however we might see it. 
 
@@ -307,13 +308,14 @@ One of my favorite James Baldwin quotes
 
 <a href="https://www.youtube.com/watch?v=w-IyamaAbxM" target="_blank"> (short version)<a/>
 
-\------------------------------------------------------------------------------------------------------
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DXwLLyorks8?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-\ 
-<a href="https://www.youtube.com/watch?v=DXwLLyorks8" target="_blank"> On getting fed with exquisite organic cat-food as an artist<a/> 
+
+<a href="https://www.youtube.com/watch?v=DXwLLyorks8" target="_blank"> On getting fed with exquisite organic cat food as an artist <a/> 
+
+
 English Subtitles and being useful / spoilt / working with state funding from a government that doesn’t want you / artists changing the world - audience / feeling alienated as an artist / the desire to justify your work]
 
-\------------------------------------------------------------------------------------------------------
+
 
 Why are there two introductions to the Science of Logic? Freud wasn’t yet born. But a frog defecates in a pond, twice, in an era before the written language.
 
@@ -335,9 +337,10 @@ In my research I’m thinking of ritualistic places where harnesses can be revea
 
 Witchcraft is becoming a harness too. “Safe” sounds like a category of predictability - can we assure that nothing we don’t want to be accountable for will happen? Are all these, harness (I assume criticality and discourse is meant by it), witchcraft, catholicism devices for preserving an imagined order or are they, can they be in function of catalysing a change of the order?\
 \
-- Where does one encounter contemporary space-times of liminality?
-- When we go underground? Or maybe at the crossroads. When I dance. In the airport. On a long bus ride. At 4 am. 
-- What is the harness of witchcraft?
+
+* Where does one encounter contemporary space-times of liminality?
+* When we go underground? Or maybe at the crossroads. When I dance. In the airport. On a long bus ride. At 4 am. 
+* What is the harness of witchcraft?
 
 What does a space goblin, a zombie and a vampire have in common? Think of the goblin guarding the inside, afraid of losing the preciousness of an inner world. The zombie cares more for the beverage than the person on the date. The vampire shrivels at the thought of a regular day job, and above all craves for love to replenish the hole where once was its unbroken heart.
 
@@ -346,16 +349,14 @@ They don’t exist in a scientific worldview. They belong to an imagined order, 
 In the Roman empire the children were considered the property of the parents.\
 Can I desire beyond the dual drive for being a protector of the child or of freeing a wild being appealing to a greater being to guide its unruliness? 
 
-
 The voice in the back of the head  --- (where my demon appeared to be situated) mine too...in the right ear more or less actually
-
-
 
 In my practice I have the tendency to follow a certain direction, path, themes and way of working for an extended period of time and when I think I know this direction and feel like I might  identify myself too much with the work or others identify me with it too much, I pull the break in order to forcefully pull myself out of a workflow to become aware of my way of working. This very much has to do with a voice in the back of my head which is critical towards choices I make and I wonder if this voice in the back of my head is not overdetermined with “political correctness” and norms that the cultural field inherently and sometimes silently puts over work. So I seem to pull a break to free myself from choices I made myself and lead others maybe astray? But the braking is a violent act leaving me practice-less for a period of time and kind of in limbo. Which is something not necessarily negative for an artist but does not feel comfortable either. So how can you free work from critique either a projected one or from oneself, without being uncritical toward work and oneself?\
 \
-- What happens along the way - Where do you end up when you continue moving in said direction, even after realising it is ‘the wrong way’? 
-- How do you perceive the surroundings along the route then? - Will you start moving differently, without having changed your ‘way’?
-- Is this possible without fear/danger?
+
+* What happens along the way - Where do you end up when you continue moving in said direction, even after realising it is ‘the wrong way’? 
+* How do you perceive the surroundings along the route then? - Will you start moving differently, without having changed your ‘way’?
+* Is this possible without fear/danger?
 
 ...no lo dejes apagar.
 
@@ -386,23 +387,17 @@ Not enough is enough. 
 Fuego! ….no lo dejes apagar.
 
 <>
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZXlgNMDK3E?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://www.youtube.com/watch?v=MZXlgNMDK3E" target="_blank">(source)</a>
-
-
 
 V ersus: from a medieval Latin use of Latin versus ‘towards’\
 I ntimate: from late Latin intimatus, past participle of Latin intimare ‘impress, make familiar’\
 P ersonal: from Latin persona ‘actor's mask, character in a play’
 
-
-
 My concern is that I am becoming reactionary - the values of my upbringing and education, that I believe I have already distilled and weeded out, are under threat. Just when you feel you’re starting to comprehend the world, it changes. The frameworks through which I partake and receive the world are diluting, transforming. I am appalled by finding out that I’m often driven by resentment towards newer generations that “have it easier”.  I’ve let myself be convinced that taking on certain struggles is necessary or even the most human experience, completing, enriching the spirit. So easy and so many reasons to become bitter. How to support and contribute to the betterment of the future if my values are greatly differing from the current ones, that have the momentum and are gaining podium. How important is it to be on the “right side of the history”? How (far) can I sacrifice the sense of safety for a necessary, but not necessarily better change, a new paradigm is promising and disrupting the status quo with? 
 
-
 Some concerns are not concerns anymore, but are unresolved emotional conflicts that solidified into an opinion without any umbilical cord to the alive matter of the concern.
-
-
 
 “I simply want to do what every good military officer, at
 
@@ -434,7 +429,6 @@ away from facts but closer to them, not fighting empiricism but, on the con-
 
 trary, renewing empiricism.” (Latour, Critical inquiry)
 
-
 The desire to desire. After I got excited, frustrated, satisfied, happy, and bored by the phenomenal sensory stimulation within the empty house. My concentration, interest and care for the content of the matter degraded, like the fatigue of trying to read a chapter too much, late at night alone with a free copy of a book by Hegel in english.
 
 Maybe ingesting something: sugar, salt, smoke, tea, coffee, nicotine, pleasure, rest, etc. Why can’t I do without? And why do I attach to the pleasure of doing without? I met my soulmate at the drive in of a fast food chain restaurant, because we got into an argument about which dressing was the most tasty to dip the stir fried onion rings, or were it octopus rings? Too hard to think beyond a lifetime.
@@ -447,8 +441,6 @@ while reading <a href="https://ipfs.io/ipfs/bafykbzacecv3reg7umqjlvl6ozaoahxkaua
 
 Does the whispering bother you when you pretend to sleep?
 
-
-
----
+- - -
 
 collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
