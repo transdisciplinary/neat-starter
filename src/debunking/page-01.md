@@ -25,4 +25,4 @@ I guess there’s a hidden matter of concern - the “real” effects of my work
 <div align="center">
 <a href="{{ '/posts/debunking/' | url }}">back</a> <> <a href="{{ '/debunking/page-02/' | url }}">next</a>
 
-collective writing by workshop participants of apass.be/debunking-the-myth Brussels, November 2020
+collective writing by participants of Debunking the Myth workhop at [apass.be](https://apass.be/debunking-the-myth) Brussels, November 2020
