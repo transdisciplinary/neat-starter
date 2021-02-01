@@ -61,6 +61,6 @@ Does the whispering bother you when you pretend to sleep?
 
 
 <div align="center">
-[back](https://rezgauche.be/posts/debunking/)
+<a href="{{ '/posts/debunking/' | url }}">back</a>
 
 collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
