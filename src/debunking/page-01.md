@@ -2,7 +2,7 @@
 layout: blog
 title: "debunking "
 description: collective writing
-path: /debunking/page-01
+path: debunking/page-01
 author: apass workshop participants
 date: 2020-11-20T18:23:27.087Z
 tags:
