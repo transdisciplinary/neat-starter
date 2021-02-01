@@ -2,7 +2,7 @@
 layout: blog
 title: "debunking "
 description: collective writing
-path: /debunking/page-10
+path: debunking/page-10
 author: apass workshop participants
 date: 2020-11-20T18:23:27.087Z
 tags:
@@ -44,6 +44,6 @@ Fuego! ….no lo dejes apagar.
 
 ---
 <div align="center">
-[back](https://rezgauche.be/posts/debunking/)  [next](https://rezgauche.be/debunking/page-11)
+<a href="{{ '/posts/debunking/' | url }}">back</a> <> <a href="{{ '/debunking/page-11/' | url }}">next</a>)
 
 collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
