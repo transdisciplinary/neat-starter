@@ -437,6 +437,6 @@ What’s love got to do with it? Could I read [Meeting the universe halfway quan
 Does the whispering bother you when you pretend to sleep?
 
 - - -
-[back](https://rezgauche.be/posts/debunking) < > [page 2](https://rezgauche.be/blog/debunking-02/)
+[back](https://rezgauche.be/posts/debunking) < > [page 2](https://rezgauche.be/blog/debunking/page-02/)
 
 collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
