@@ -2,7 +2,7 @@
 layout: blog
 title: "debunking "
 description: collective writing
-path: posts/debunking/page-02
+path: blog/debunking/page-02
 author: apass workshop participants
 date: 2020-11-20T18:23:27.087Z
 tags:
@@ -439,6 +439,6 @@ What’s love got to do with it? Could I read [Meeting the universe halfway quan
 Does the whispering bother you when you pretend to sleep?
 
 - - -
-[back](https://rezgauche.be/posts/debunking/) < > [page 3](https://rezgauche.be/posts/debunking/page-03)
+[back](https://rezgauche.be/posts/debunking/) < > [page 3](https://rezgauche.be/blog/debunking/page-03)
 
 collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
