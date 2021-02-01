@@ -42,8 +42,8 @@ Fuego! ….no lo dejes apagar.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MZXlgNMDK3E?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <a href="https://www.youtube.com/watch?v=MZXlgNMDK3E" target="_blank">(source)</a>
 
-- - -
+---
 <div align="center">
-[back](https://rezgauche.be/posts/debunking/) <> [next](https://rezgauche.be/debunking/page-11)
+[back](https://rezgauche.be/posts/debunking/)  [next](https://rezgauche.be/debunking/page-11)
 
 collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
