@@ -20,8 +20,8 @@ My matter of concern is what are the sites of instituting (new) forms of sensing
 
 I guess there’s a hidden matter of concern - the “real” effects of my work, of one’s work, material effects perhaps. That would further point at the desire to grasp the causality at best, but let’s go for relation between immaterial and material. Material in this case is bodily experience, patterns of sensing and acting upon them. How can we speculate the future from our senses differently than under the dominance of visual perception? 
 
-- - -
+
 <div align="center">
-[back](https://rezgauche.be/posts/debunking/) <> [next](https://rezgauche.be/debunking/page-02)
+[back](https://rezgauche.be/posts/debunking/)  [next](https://rezgauche.be/debunking/page-02)
 
 collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
