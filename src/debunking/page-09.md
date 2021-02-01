@@ -2,7 +2,7 @@
 layout: blog
 title: "debunking "
 description: collective writing
-path: /debunking/page-09
+path: debunking/page-09
 author: apass workshop participants
 date: 2020-11-20T18:23:27.087Z
 tags:
@@ -49,6 +49,6 @@ In my practice I have the tendency to follow a certain direction, path, themes a
 
 - - -
 <div align="center">
-[back](https://rezgauche.be/posts/debunking/) <> [next](https://rezgauche.be/debunking/page-10)
+<a href="{{ '/posts/debunking/' | url }}">back</a> <> <a href="{{ '/debunking/page-10/' | url }}">next</a>
 
 collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
