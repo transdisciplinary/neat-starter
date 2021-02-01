@@ -59,7 +59,7 @@ What’s love got to do with it? Could I read [Meeting the universe halfway quan
 
 Does the whispering bother you when you pretend to sleep?
 
-- - -
+
 <div align="center">
 [back](https://rezgauche.be/posts/debunking/)
 
