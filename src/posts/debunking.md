@@ -16,7 +16,7 @@ tags:
 * ### [Where is the opening for love inside this work?](https://rezgauche.be/debunking/page-06/)
 * ### [HOW TO DIE IN A GOOD WAY? (HOW TO LIVE IN A GOOD WAY)](https://rezgauche.be/debunking/page-07)
 * ### [Sorry for rambling](https://rezgauche.be/debunking/page-08/)
-* ### [*Alienation from self?, heritage, belonging and connection*](https://rezgauche.be/debunking/page-09/)
+* ### *[Alienation from self?, heritage, belonging and connection](https://rezgauche.be/debunking/page-09/)*
 * ### [INTIMATE VERSUS PERSONAL](https://rezgauche.be/debunking/page-10)
 * ### [V ersus: from a medieval Latin use of Latin versus ‘towards’\ I ntimate: from late Latin intimatus, past participle of Latin intimare ‘impress, make familiar’\ P ersonal: from Latin persona ‘actor's mask, character in a play’](https://rezgauche.be/debunking/page-11/)
 
@@ -24,5 +24,6 @@ tags:
 
 <div align="center">
 
+collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
 
 <a href="{{ '/posts/debunking/' | url }}">back</a> - <a href="{{ '/debunking/page-01/' | url }}">next</a>
