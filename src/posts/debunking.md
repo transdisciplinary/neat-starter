@@ -20,9 +20,9 @@ tags:
 * ### [INTIMATE VERSUS PERSONAL](https://rezgauche.be/debunking/page-10)
 * ### [V ersus: from a medieval Latin use of Latin versus ‘towards’\ I ntimate: from late Latin intimatus, past participle of Latin intimare ‘impress, make familiar’\ P ersonal: from Latin persona ‘actor's mask, character in a play’](https://rezgauche.be/debunking/page-11/)
 
-- - -
+<hr>
 
 <div align="center">
-[back](https://rezgauche.be/posts/debunking) < > [next](https://rezgauche.be/debunking/page-01)
 
-collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
+
+<a href="{{ '/posts/debunking/' | url }}">back</a> - <a href="{{ '/debunking/page-01/' | url }}">next</a>
