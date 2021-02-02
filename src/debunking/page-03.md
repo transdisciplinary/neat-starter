@@ -10,8 +10,9 @@ tags:
 ---
 ## DEBUNKING THE MYTH
 
-    Many teachers in the world are teaching at the same time. Therefore it is difficult to hear. What is deep listening meaning to people practicing it<<<<<<<<<<<<<<<<<<<<<<<<3 </3>3
 
+   Many techers in the world are teching at the same time. Therefore it is difficult to hear. What is deep listening meaning to
+people practicing it<<<<<<<<<<<<<<<<<<<<<<<3
 Love is an initiative. Or not? What is love ?                                                                                                                         Knowing the unknown is a possibility as well, 
 
 Aswell……………………………………………………………………………………………………
