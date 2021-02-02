@@ -51,4 +51,5 @@ In my practice I have the tendency to follow a certain direction, path, themes a
 <div align="center">
 <a href="{{ '/posts/debunking/' | url }}">back</a> <> <a href="{{ '/debunking/page-10/' | url }}">next</a>
 
-collective writing by workshop participants of <a href="https://apass.be/debunking-the-myth/" target="_blank">Debunking The Myth at advanced performance and scenography studies<a/>, Brussels, November 2020
+collective writing by participants of Debunking the Myth workhop at [apass.be](https://apass.be/debunking-the-myth) Brussels, November 2020
+
