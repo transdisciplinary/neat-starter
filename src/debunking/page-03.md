@@ -65,7 +65,10 @@ Many years ago, I had a conversation about how love is a plural being. Some of i
 
 - - -
 <div align="center>
+            
+collective writing by participants of Debunking the Myth workhop at [apass.be](https://apass.be/debunking-the-myth) Brussels, November 2020
+            
 <a href="{{ '/posts/debunking/' | url }}">back</a> <> <a href="{{ '/debunking/page-04/' | url }}">next</a>
                                                                                                  
-collective writing by participants of Debunking the Myth workhop at [apass.be](https://apass.be/debunking-the-myth) Brussels, November 2020
+
 
