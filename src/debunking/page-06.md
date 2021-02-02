@@ -71,7 +71,8 @@ and life
 lo
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-u9eyImD3i4?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-\\[The crisis of love](https://www.youtube.com/watch?v=-u9eyImD3i4)  
+
+[The crisis of love](https://www.youtube.com/watch?v=-u9eyImD3i4)  
 
 <<<<<<<3
 
@@ -85,13 +86,12 @@ I remember when people did hearts with numbers :)<3 every part of their keyboard
 
 }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
 
-![](/static/img/thisistheway.jpg)
 
 
 <hr>
-
+<br>
 <div align="center">
-
+<br>
   
 <a href="{{ '/posts/debunking/' | url }}">back</a> - <a href="{{ '/debunking/page-07/' | url }}">next</a>
 
