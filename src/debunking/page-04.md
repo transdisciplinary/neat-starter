@@ -51,11 +51,9 @@ Nutritive.
 
 ‘Hey You,’<a href="https://vimeo.com/7315956" target="_blank">Whatshadoing</a>
 
-<br>
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/7315956?title=0&byline=0" style="position:absolute;top:0;left:0;width:20%;height:20%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 * the non-dual\ gig attempt about - ‘Whatshadoing’ starts at 02:32. 
 <br>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/7315956?title=0&byline=0" style="position:absolute;top:0;left:0;width:20%;height:20%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br>
 once within the non-dual frame , when there is not a specific correctness to be found or even rubric to formulate off of, how to be able to know, what you are doing(what the aim is, when the technology at use is radical acceptance?)
 <br>
