@@ -13,6 +13,8 @@ tags:
 
 ### HOW TO DIE IN A GOOD WAY? (HOW TO LIVE IN A GOOD WAY)
 
+![](/static/img/thisistheway.jpg)
+
 It seems that, if driven to its radical potential, non-duality could have the ability to make one rather fearless? I say that, because inside of non dual is of course non attachment, and a person without attachments is one who has nothing to fear, in a sense they are already dead, fully alive, however we might see it. 
 
 To me there exists something juicy here, that is how to die in a good way? I’m curious somehow of how the context of artistic research can be a container to explore death within, or if it can be a place to do this in? I see many valuable offerings it could have
