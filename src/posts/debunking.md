@@ -6,7 +6,11 @@ date: 2020-11-20T18:23:27.087Z
 tags:
   - from
 ---
+<div align="center">
+
 ## DEBUNKING THE MYTH[](https://rezgauche.be/debunking/page-01/)
+
+</div align="left">
 
 * ### [THE BUNK BEDS WHERE CATHOLIC GUILT AND NEO-LIBERAL ECONOMIC ASSUMPTIONS ARE SNORING](https://rezgauche.be/debunking/page-01/)
 * ### [HOW TO DIE IN A GOOD / WAY](https://rezgauche.be/debunking/page-02/)
