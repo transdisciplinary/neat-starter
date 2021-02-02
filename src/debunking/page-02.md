@@ -104,7 +104,7 @@ Possibilities aaaaareeeee
 <div align="center">
 collective writing by participants of Debunking the Myth workhop at [apass.be](https://apass.be/debunking-the-myth) Brussels, November 2020
   
-<a href="{{ '/posts/debunking/' | url }}">back</a> <> <a href="{{ '/debunking/page-03/' | url }}">next</a>
+<a href="{{ '/posts/debunking/' | url }}">back</a> - <a href="{{ '/debunking/page-03/' | url }}">next</a>
 
 
 
