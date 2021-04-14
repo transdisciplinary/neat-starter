@@ -1,5 +1,5 @@
 ---
-title: creation a sustainable economy for the artists eco system
+title: creating a sustainable economy for the artists eco system
 description: working group proposal
 author: Marlon Solano, Jeanne Bloch, Stef Meul
 date: 2020-12-03T13:40:37.450Z
