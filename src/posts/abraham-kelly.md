@@ -10,7 +10,7 @@ tags:
 
 ![](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.6435-9/188455087_4291727690860074_7384492162861934756_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=0debeb&_nc_ohc=2C4T1iDm9BsAX_NKKw9&_nc_ht=scontent-cdg2-1.xx&oh=d974397a7f8cdaaca4123df40448a0de&oe=60CAB431 "ak fly b")
 
-book you visit here: <https://calendly.com/rezgauche/abraham-kelly>
+book your visit here: <https://calendly.com/rezgauche/abraham-kelly>
 
 <!-- Calendly inline widget begin -->
 
