@@ -17,3 +17,5 @@ book your visit here: <https://calendly.com/rezgauche/abraham-kelly>
 <div class="calendly-inline-widget" data-url="https://calendly.com/rezgauche/abraham-kelly?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=e54abc" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
+
+and check out the Abraham Kelly nft collection: <https://opensea.io/collection/abraham-kelly>
