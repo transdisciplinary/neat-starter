@@ -34,7 +34,7 @@ Maybe, skipping the main dish and continuing with reinventing a desert, in a let
 
 **s2.** "Artists, think of taking part as an ambassador of a terrarium, a bio-political custodian, a temporary improvement in the augmented substance of the real, a vanishing mediator, or maybe as a spoiled child that needs to be retroactively delivering its own parents into existence."
 
-`፨`
+፨
 
 From experience, things tend to work out better if they are not too complicated, therefore I think it would be better to hear from you what you have in mind. Maybe, lets have a chat online or a talk in person.\
 An initial timeframe (2020-2024) and ideas for rezgauche.be are in this roadmap, <https://rezgauche.be/posts/roadmap/> this can change depending on your ideas and taste for responsibility.
@@ -42,5 +42,6 @@ An initial timeframe (2020-2024) and ideas for rezgauche.be are in this roadmap,
 ፨
 
 **contact** \
-email: [info@transdisciplinary.art](mailto:info@transdisciplinary.art)messenger: [facebook.com/stefmeul](https://www.facebook.com/stefmeul)\
+email: [info@transdisciplinary.art](mailto:info@transdisciplinary.art)\
+messenger: [facebook.com/stefmeul](https://www.facebook.com/stefmeul)\
 telephone: +32 488 367 723
