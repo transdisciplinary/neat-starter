@@ -8,7 +8,7 @@ tags:
 ---
 # rezgauche roadmap
 
-![roadmap](https://photos.app.goo.gl/8GozJ3VJTgos7sRN7 "rm")
+![roadmap](/static/img/roadmap-copy.jpg "rm")
 
 **11/2020:** 
 
