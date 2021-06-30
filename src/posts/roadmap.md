@@ -28,9 +28,9 @@ build and launch website version 1.0 / prepare AK exposition / prepare Motion wo
 
 Abraham Kelly exposition: <https://rezgauche.be/posts/abraham-kelly/>\
 Motion workshop: <https://www.youtube.com/watch?v=XJnV41LQ7_w> \
-Launch initial proposal forms of work for artists
+Launch open call: <https://rezgauche.be/posts/initial-proposal-forms-of-work/>
 
-**8-9/2021:** 
+**[](https://rezgauche.be/posts/initial-proposal-forms-of-work/)8-9/2021:** 
 
 compile year planning 2022 / apply for funding / Motion residency
 
