@@ -28,9 +28,9 @@ Not everybody all the time, maybe with a dozen or so, like these vacation places
 
 Maybe, skipping the main dish and continuing with reinventing a desert, in a letter or two: 
 
-**s1.** "Dear, if you are looking for a place to work in and want to make a space work, contact rezgauche.be." 
+**s1.** *"Dear, if you are looking for a place to work in and want to make a space work, contact rezgauche.be."* 
 
-**s2.** "Artists, think of taking part as an ambassador of a terrarium, a bio-political custodian, a temporary improvement in the augmented substance of the real, a vanishing mediator, or maybe as a spoiled child that needs to be retroactively delivering its own parents into existence."
+**s2.** *"Artists, think of taking part as an ambassador of a terrarium, a bio-political custodian, a temporary improvement in the augmented substance of the real, a vanishing mediator, or maybe as a spoiled child that needs to be retroactively delivering its own parents into existence."*
 
 ፨
 
