@@ -10,11 +10,9 @@ tags:
 
 ![wsf](/static/img/img_20210603_104647-copy.jpg "wsf")
 
-*Situation: "I’m sometimes stressed about my privilege of a below poverty level welfare, and if I will ever make it to have enough artistic contracts to prove to rent a nicer place, or access an artist unemployment status. I feel like going on a holiday but I hate being a workless tourist. I would like to change my life as a consumer from where I am and with what I already have. I prefer to be sober because I know myself to be crazy enough. I’m at the age of 37, more and/or less."*
-
 ፨
 
-Plenty of things to happen, for starters:
+things to happen, for starters:
 
 ~ Do you want to be part of starting a collective, to share and give care to your own gallery/atelier? 
 
@@ -26,7 +24,7 @@ Not everybody all the time, maybe with a dozen or so, like these vacation places
 
 ~ I don’t know the future, but I have things that I can work with and I’d like to share my limited resources and benefits with artists sharing the responsibilities of our activities. I don’t expect myself to be successful and I don’t measure others on popularity or virtuosity. Art happens to be the thing that makes sense to be busy with most of the time. 
 
-፨
+![rezgauche](https://photos.app.goo.gl/KpHTTvasVyEVXubf6 "rg")
 
 Maybe, skipping the main dish and continuing with reinventing a desert, in a letter or two: 
 
