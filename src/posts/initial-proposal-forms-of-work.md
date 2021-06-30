@@ -6,7 +6,7 @@ date: 2021-06-30T14:29:17.275Z
 tags:
   - created
 ---
-***"In a post-bubble era, I was thinking about what would be fun to do with a gallery."***
+***"In a post-bubble era, what would be fun to do with a gallery."***
 
 ![wsf](/static/img/img_20210603_104647-copy.jpg "wsf")
 
