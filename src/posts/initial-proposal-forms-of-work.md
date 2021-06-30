@@ -24,7 +24,7 @@ Not everybody all the time, maybe with a dozen or so, like these vacation places
 
 ~ I don’t know the future, but I have things that I can work with and I’d like to share my limited resources and benefits with artists sharing the responsibilities of our activities. I don’t expect myself to be successful and I don’t measure others on popularity or virtuosity. Art happens to be the thing that makes sense to be busy with most of the time. 
 
-![rezgauche](https://photos.app.goo.gl/KpHTTvasVyEVXubf6 "rg")
+![rezgauche](/static/img/rezgauche-copy.jpg "rg")
 
 Maybe, skipping the main dish and continuing with reinventing a desert, in a letter or two: 
 
