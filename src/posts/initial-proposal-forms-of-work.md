@@ -1,20 +1,16 @@
 ---
-title: "Initial proposal: forms of work"
-description: lets call on possibilities into forms of work
+title: lets call on possibilities into forms of work
+description: initial proposal
 author: transdisciplinary.art
 date: 2021-06-30T14:29:17.275Z
 tags:
   - created
 ---
-# Initial proposal: lets call on possibilities into forms of work
-
-
-
-*"In a post-bubble era, I was thinking about what would be fun to do with a gallery."*
+***"In a post-bubble era, I was thinking about what would be fun to do with a gallery."***
 
 ![wsf](/static/img/img_20210603_104647.jpg "wsf")
 
-*"I’m sometimes stressed about my privileged native rights to below poverty level welfare, and if I will ever make it to have enough contracts to prove to rent a nice place, or get to the 9k bruto wage access to the artist unemployment status. I feel like going on a holiday but I hate being a workless tourist. I would like to change my life as a consumer from where I am and with what I already have. I prefer to be sober because I know myself to be crazy enough. I’m at the age of 37, more and/or less."*
+*"I’m sometimes stressed about my privileged native rights to below poverty level welfare, and if I will ever make it to have enough contracts to prove to rent a nice place, or to get to the 9k bruto wage access to the artist unemployment status. I feel like going on a holiday but I hate being a workless tourist. I would like to change my life as a consumer from where I am and with what I already have. I prefer to be sober because I know myself to be crazy enough. I’m at the age of 37, more and/or less."*
 
 ፨
 
