@@ -8,8 +8,6 @@ tags:
 ---
 ## Introduction
 
-
-
 ### what?
 
 Research on tokenisation, decentralised autonomous organisation, decentralised finance, non-fungible tokens (art piece certification).\
@@ -47,8 +45,6 @@ How automation, artificial intelligence, robotics, bio-engineering, etc. can be 
 What does the human need from technological progress, to provide for care and an abundant qualitative life?\
 If there is no more work, what does art become to a human culture?
 
-
-
 ## Project Proposal
 
-Read about the proposal here: <https://ipfs.io/ipfs/QmZVCGZdWYkhWFRP3arzBnc1r6JgFRrZPNgti3XYL8VamJ/Creating%20a%20Sustainable%20Economy%20for%20the%20Artists%20Ecosystem.pdf>
+Read the complete proposal here (loads a little slow at times): <https://ipfs.io/ipfs/QmZVCGZdWYkhWFRP3arzBnc1r6JgFRrZPNgti3XYL8VamJ/Creating%20a%20Sustainable%20Economy%20for%20the%20Artists%20Ecosystem.pdf>
