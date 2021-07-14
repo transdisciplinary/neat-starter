@@ -21,29 +21,7 @@ At start, *rezgauche.be* follows three initial paths to transit from a curated s
 
 
 
-### Locality
-
-*rezgauche.be* has its main node at the gallery/atelier located at Rue Theodore Verhaegen 154, Brussels, Belgium.
-
-Adjacent to the multi-purpose gallery/atelier there is a small communal kitchen, restrooms, a courtyard, and a basic underground home studio, suitable for graphic design, making d.i.y. fanzines, music production and audiovisual post-production. Above the gallery, in a small colocation, a studio apartment for hosting artists in residency will become available in the near future.
-
-In the area, Porte-de Halle, Place Bethlehem, there are lots of little restaurants, shops,  supermarkets, cultural venues (Tricoterie des Liens, Pianofabriek, Jacques-Frank) and art venues (Deborah Bowman, Alma Sarif). On walking distance there is the Wiels contemporary art center, Midi Station, Duden Parc, P.A.R.T.S, Communa asbl Maxima site, Artist Commons asbl Chassart studio, Parvis Saint-Gilles, Place Jeu de balle, etc.
-
-A large window at the street side lends itself to a view into the gallery. Yet, there is no door that gives front access. Visitors need to pass through the gate and the courtyard before entering the space, which allows for a sense of distance between persons at work and mere passersby.
-
-This display towards the street side has proven itself to be very useful for visual and performance artworks. The performances are viewable from the street, framed within the gallery’s window, sometimes causing consternation because of non-heteronormative interaction, lack of decent costumes, etc.
-
-If performing happens with a public on the street side, the performance’s sound can be made audible by amplifying the indoor sound through the basement studio ventilation, making it audible outdoors.
-
-Alternatively, by adding a curtain, then events can happen in a more relaxed intimate setting between the persons present. This is often easier when working with research, rehearsals, meetings, meditations, preparing exhibitions, etc. And if the weather allows, the courtyard is nice for gatherings, reflection, and occasional events. 
-
-Specific to this location is that nothing (creations, material, artworks, etc) can be placed in the corridors, courtyard, or outside the area of the gallery/atelier, because this obstructs the common use of the building’s occupants. That means in quotidian practice that how you make/do things has to include a consideration of any residuals of your practice. With late night events, the neighbours need to be involved somehow, and/or reduce the volume of evocative noises and music, so that the kids and early hard working adults can enjoy their beauty sleep.
-
-
-
 ## Purpose
-
-
 
 *proper:* \
 *rezgauche.be* is reshaping commoning: thinking, developing and practising inclusive structures that balance responsibility, resources and stakeholdership with participation and decentralised forms of organisation. 
@@ -54,8 +32,6 @@ Specific to this location is that nothing (creations, material, artworks, etc) c
 
 *colloquial:* \
 *rezgauche.be* is responsive to a need for an immediate representation of artists, balancing responsibility with decentralised organisation.
-
-
 
 ## Activities
 
@@ -69,15 +45,11 @@ Artists are invited to experiment and present the process in an informal, profes
 
 *Softly We Entered Another Truth* functions as an experimental practice of a life beyond capitalist consumer culture and engages participants through displacement into artistic practice, love and care. 
 
-
-
 ### Art Research 
 
 *A.R.* is an open space for engaging with the research process of the participants. It shapes itself along the artistic research proposals by the artists present. The participants can share research with each other, reflect on each others work, but can also just work by themselves. *Art Research* can be open to the public and guests can be invited, whenever the researchers want to include this in their process.
 
 *A.R.* happens monthly or bi-monthly, and can include the participants of the A.i.R. 
-
-
 
 ## participation
 
@@ -107,8 +79,6 @@ The rezgauche.be *A.i.R*. selection criteria are based on:
 
    Artistic autonomy of persons in residence and artist’s care for the workspace: before, during and after their residency - are considered important. The decisions for selection are made by the stakeholders of *rezgauche.be* and will happen through a participants meeting, and/or by online voting on the proposals in a dao/disco. Example: [https://elements.disco.coop](https://elements.disco.coop/)
 
-
-
 ### OpenCollective
 
 To become a participant *rezgauche.be,* to support, benefit and develop its financial structure, a collective fund is organised through [opencollective.com](https://opencollective.com/). *(more info coming soon).*
@@ -118,8 +88,6 @@ This allows for a transparent insight in the funds, costs and expenses of *rezga
 A fiscal host takes care of the financial administration. Donation and funding can be requested and received through *opencollective.com* and the fiscal host can provide tax deductible proofs for persons and organisations that would like to finance, fund, support and sponsor *rezgauche.be*.
 
 Employment in *rezgauche.be* can happen through the Smart Activity, for example by invoicing *opencollective*.
-
-
 
 ### Sputnik Dao
 
@@ -136,8 +104,6 @@ Example use of space contract (site in development):\
 
 A workshop to develop the *rezgauche.be* dao, and voting on its procedures, rules etc, will be organised with participants and stakeholders. Documentation will be made available to new participants and help provided where needed.
 
-
-
 ## network
 
 In an initial stage *rezgauche.be* will build on the contacts and nodes connected to the organisations, social networks and personal acquaintances of Stef Meul[ transdisciplinary.art/stef-meul](https://transdisciplinary.art/stef-meul).
@@ -145,6 +111,24 @@ In an initial stage *rezgauche.be* will build on the contacts and nodes connecte
 In peer-2-peer practices, the initial contacts are encouraged to connect to their social base, causing the network to become more robust and decentralised. A reference person can act as an introduction between participants, to build trust and share responsibility among the network constituents.
 
 Persons with affinity with *rezgauche.be*’s purpose are also welcome to join without any prior connection to its network. In due time *rezgauche.be* will expand into the global commons, while allowing its local base to be accessible through sharing responsibility with its diversified participants.
+
+## Locality
+
+*rezgauche.be* has its main node at the gallery/atelier located at Rue Theodore Verhaegen 154, Brussels, Belgium.
+
+Adjacent to the multi-purpose gallery/atelier there is a small communal kitchen, restrooms, a courtyard, and a basic underground home studio, suitable for graphic design, making d.i.y. fanzines, music production and audiovisual post-production. Above the gallery, in a small colocation, a studio apartment for hosting artists in residency will become available in the near future.
+
+In the area, Porte-de Halle, Place Bethlehem, there are lots of little restaurants, shops,  supermarkets, cultural venues (Tricoterie des Liens, Pianofabriek, Jacques-Frank) and art venues (Deborah Bowman, Alma Sarif). On walking distance there is the Wiels contemporary art center, Midi Station, Duden Parc, P.A.R.T.S, Communa asbl Maxima site, Artist Commons asbl Chassart studio, Parvis Saint-Gilles, Place Jeu de balle, etc.
+
+A large window at the street side lends itself to a view into the gallery. Yet, there is no door that gives front access. Visitors need to pass through the gate and the courtyard before entering the space, which allows for a sense of distance between persons at work and mere passersby.
+
+This display towards the street side has proven itself to be very useful for visual and performance artworks. The performances are viewable from the street, framed within the gallery’s window, sometimes causing consternation because of non-heteronormative interaction, lack of decent costumes, etc.
+
+If performing happens with a public on the street side, the performance’s sound can be made audible by amplifying the indoor sound through the basement studio ventilation, making it audible outdoors.
+
+Alternatively, by adding a curtain, then events can happen in a more relaxed intimate setting between the persons present. This is often easier when working with research, rehearsals, meetings, meditations, preparing exhibitions, etc. And if the weather allows, the courtyard is nice for gatherings, reflection, and occasional events. 
+
+Specific to this location is that nothing (creations, material, artworks, etc) can be placed in the corridors, courtyard, or outside the area of the gallery/atelier, because this obstructs the common use of the building’s occupants. That means in quotidian practice that how you make/do things has to include a consideration of any residuals of your practice. With late night events, the neighbours need to be involved somehow, and/or reduce the volume of evocative noises and music, so that the kids and early hard working adults can enjoy their beauty sleep.
 
 
 
@@ -198,8 +182,6 @@ Benefits are shared, the roadmap contains an outlook on how to realise the proje
    Social Security / insurances / taxes = 461\
    Artist bruto vacation prime = 119 \
    Artist netto wage = 549
-
-
 3. Activities
 
    * *A.R.* (5days)
@@ -227,8 +209,6 @@ Benefits are shared, the roadmap contains an outlook on how to realise the proje
 
      *approximately 13461 €*
 
-
-
 #### Estimate annual budget overview
 
 First year:\
@@ -243,8 +223,6 @@ Following years:
 8 weeks of undefined, other projects, maintenance days, etc: 1336 €
 
 Estimated project total annual costs: *approximately 119 314 €*
-
-
 
 ## roadmap
 
@@ -307,7 +285,7 @@ Estimated project total annual costs: *approximately 119 314 €*
   launch public foundation\
   residencies, activities and events
 * 7 - 8 / `24\
-  evaluation of \`20 -\`24 four year plan\
+  evaluation of \`20 -`24 four year plan\
   renewal and reshaping of forms of work\
   compile year planning 2025
 * 9 - 12 / `24\
