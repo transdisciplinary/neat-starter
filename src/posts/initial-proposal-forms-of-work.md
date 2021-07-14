@@ -10,39 +10,23 @@ tags:
 
 ![wsf](/static/img/img_20210603_104647-copy.jpg "wsf")
 
-፨
+Do you want to be part of a cooperative, share programming an art space, give care to your own gallery/atelier? 
 
-things to happen, for starters:
+Experiment with a paradox, i.e. how not to: curate, commercialise, gentrify, be viable at the grace of the state? Keeping it real: no pseudo family company non-profit nonsense. Ok, then what?
 
-~ Do you want to be part of starting a collective, to share and give care to your own gallery/atelier? 
+I don’t know the future, I work with what is, I can share these resources, develop work and benefits with artists that share the responsibility of our activity. 
 
-Not everybody all the time, maybe with a dozen or so, like these vacation places that you rent together and visit for a month or two in a year. Or a place where half of the month it is busy with guests and for the other half it is dedicated to your own activity?
-
-~ As Brussels still has the advantage of being in a country that validates art through state funding, lets apply for grants, projects and structural funds until we get more money to buy the bacon that we can but don’t need to eat.
-
-~ A common paradoxical class struggle, i.e. how not to: curate, commercialise, gentrify, be viable at the grace of the state? Keeping it real: no pseudo family company non profit nonsense. Ok, then what?
-
-~ I don’t know the future, but I have things that I can work with and I’d like to share my limited resources and benefits with artists sharing the responsibilities of our activities. I don’t expect myself to be successful and I don’t measure others on popularity or virtuosity. Art happens to be the thing that makes sense to be busy with most of the time. 
+I don’t expect myself to be successful and I don’t measure others on popularity or virtuosity. \
+Art happens to be the thing that makes sense to be busy with most of the time. 
 
 ![rezgauche](/static/img/rezgauche-copy.jpg "rg")
 
-Maybe, skipping the main dish and continuing with reinventing a desert, in a letter or two: 
+What is *rezgauche.be:* <https://rezgauche.be/posts/rezgauche-be/>\
+Shortcut to the *A.i.R.* application form <https://framaforms.org/artist-residency-application-1625905255>
 
-**s1.** *"Dear, if you are looking for a place to work in and want to make a space work, contact rezgauche.be."* 
+For other questions about *rezgauche.be* contact:
 
-**s2.** *"Artists, think of taking part as an ambassador of a terrarium, a bio-political custodian, a temporary improvement in the augmented substance of the real, a vanishing mediator, or maybe as a spoiled child that needs to be retroactively delivering its own parents into existence."*
-
-፨
-
-From experience, things tend to work out better if they are not too complicated, therefore I think it would be better to hear from you what you have in mind. Maybe, lets have a chat online or a talk in person.\
-An initial timeframe (2020-2024) and ideas for rezgauche.be are in this roadmap, <https://rezgauche.be/posts/roadmap/> this can change depending on your ideas and taste for responsibility.
-
-፨
-
-**contact** \
-email: [info@transdisciplinary.art](mailto:info@transdisciplinary.art)\
-messenger: [facebook.com/stefmeul](https://www.facebook.com/stefmeul)\
+[info@transdisciplinary.art](mailto:info@transdisciplinary.art)\
 telephone: +32 488 367 723\
-location: rue theodore verhaegen 154, brussels\
-\
-<a href="https://framaforms.org/artist-residency-application-1625905255">Residency Application Form</a>"
+messenger: [facebook.com/stefmeul](https://www.facebook.com/stefmeul)\
+location: rue theodore verhaegen 154, brussels
