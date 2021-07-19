@@ -1,5 +1,5 @@
 ---
-title: "  S.W.E.A.T"
+title: "  S.W.E.A.T."
 description: 19 until 22 July
 author: rez gauche
 date: 2021-07-17T09:07:05.212Z
